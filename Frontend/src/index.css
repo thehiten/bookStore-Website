@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* Remove Tailwind's base styles */
+/* @tailwind base; */
+
+/* Apply font directly to body */
+body {
+    font-family: "Poppins", sans-serif;
+}

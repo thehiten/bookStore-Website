@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "adventure book",
+        "title": "Explore the thrilling adventures of heroes and heroines.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 2,
+        "name": "comedy book",
+        "title": "Laugh out loud with the best comedic tales.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 3,
+        "name": "sports book",
+        "title": "Get inspired by the stories of sports legends.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 4,
+        "name": "mystery novel",
+        "title": "Dive into intriguing mysteries and uncover secrets.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 5,
+        "name": "science fiction",
+        "title": "Journey through space and time with sci-fi adventures.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 6,
+        "name": "fantasy epic",
+        "title": "Enter fantastical worlds and meet magical creatures.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 7,
+        "name": "historical fiction",
+        "title": "Relive the past with gripping historical narratives.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 8,
+        "name": "romance novel",
+        "title": "Fall in love with enchanting love stories.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    },
+    {
+        "id": 9,
+        "name": "thriller book",
+        "title": "Experience the suspense and excitement of thrillers.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1717234228~exp=1717237828~hmac=e25d0964f7f1f44569fb9c7c95958eec75401ed3d6c4651175a900d341933b29&w=740"
+    }
+]
