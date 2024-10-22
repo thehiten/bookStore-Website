@@ -14,7 +14,7 @@ function Signup() {
 
   const onSubmit = async (data) => {
     try {
-      const response = await axios.post("http://localhost:4001/user/signup", data);
+      const response = await axios.post("https://bookstore-website-igrb.onrender.com/user/signup", data);
       console.log("Signup successful:", response.data);
 
       if (response) {

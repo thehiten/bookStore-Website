@@ -13,7 +13,7 @@ function Contact() {
   
   const onSubmit = async (data) => {
     try {
-      const response = await axios.post("http://localhost:4001/contact", data);
+      const response = await axios.post("https://bookstore-website-igrb.onrender.com/contact", data);
       navigate("/"); // Navigate to home page after successful signup
     } catch (error) {
       if (error.response) {
